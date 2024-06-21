@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning MERN Stack!
+- 🌱 I’m currently learning MEAN Stack!
 - ⚡ Portfolio loading...
