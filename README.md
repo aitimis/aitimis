@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="website link" target="_blank">
-    <img src="https://img.shields.io/badge/-Website-Website?style=plastic&logo=Angular&labelColor=%236C757D&color=%236F42C1"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=Resume&color=%236F42C1&style=plastic&logo=Angular"/>
   </a>
   <a href="https://www.linkedin.com/in/alextimis/" target="_blank">
     <img src="https://img.shields.io/badge/-Linkedin-Linkedin?style=plastic&logo=LinkedIn&logoColor=white&labelColor=%236C757D&color=%23007BFF"/>
