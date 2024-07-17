@@ -114,17 +114,22 @@ I'm a creative full stack software engineer with a strong passion for building w
 
 <h1 align="center">Technologies</h1>
 
+<!-- 
+Colours: 
+%23007BFF - blue
+%236F42C1 - purple
+-->
 
 <p align="center">
-    <img src="https://img.shields.io/static/v1?label=|&message=HTML5&color=23555f&style=plastic&logo=html5"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=HTML5&color=%23007BFF&style=plastic&logo=html5"/>
     <img src="https://img.shields.io/static/v1?label=|&message=CSS3&color=285f65&style=plastic&logo=css3"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=JAVASCRIPT&color=3c7f5d&style=plastic&logo=javascript"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=JAVASCRIPT&color=%23007BFF&style=plastic&logo=javascript"/>
     <img src="https://img.shields.io/static/v1?label=|&message=TYPESCRIPT&color=4a935c&style=plastic&logo=typescript"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=PYTHON&color=52985b&style=plastic&logo=python"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=PYTHON&color=%23007BFF&style=plastic&logo=python"/>
     <img src="https://img.shields.io/static/v1?label=|&message=MONGO-DB&color=cdd148&style=plastic&logo=mongodb"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=EXPRESS&color=bbb111&style=plastic&logo=express"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=EXPRESS&color=%23007BFF&style=plastic&logo=express"/>
     <img src="https://img.shields.io/static/v1?label=|&message=Angular&color=blue&style=plastic&logo=Angular"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=LINUX&color=bbb111&style=plastic&logo=linux"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=LINUX&color=%23007BFF&style=plastic&logo=linux"/>
     <img src="https://img.shields.io/static/v1?label=|&message=GIT&color=cbb148&style=plastic&logo=git"/>
 </p>
 
@@ -139,18 +144,18 @@ I'm a creative full stack software engineer with a strong passion for building w
 
 <p align="center">
   <a href="website link" target="_blank">
-    <img src="https://img.shields.io/badge/-Website-blue?style=flat&logo=Angular"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=Website&color=%236F42C1&style=plastic&logo=Angular"/>
   </a>
   <a href="https://www.linkedin.com/in/alextimis/" target="_blank">
-    <img src="https://img.shields.io/badge/-Linkedin-yellow?style=flat&logo=LinkedIn"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=Linkedin&color=%23007BFF&style=plastic&logo=Linkedin"/>
   </a>
   <a href="https://x.com/AITimis" target="_blank">
-    <img src="https://img.shields.io/badge/-Twitter-blue?style=flat&logo=X"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=Twitter&color=%236F42C1&style=plastic&logo=X"/>
   </a>
   <a href="angellist" target="_blank">
-      <img src="https://img.shields.io/badge/-Angellist-yellow?style=flat&logo=|"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=Angellist&color=%23007BFF&style=plastic&logo=|"/>
   </a>
   <a href="resume" target="_blank">
-      <img src="https://img.shields.io/badge/-Resume-blue?style=flat&logo=Angular"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=Resume&color=%236F42C1&style=plastic&logo=Angular"/>
   </a>
 </p>
