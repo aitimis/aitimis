@@ -3,10 +3,10 @@
 
 <p align="center">
   <a href="website link" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=Website&color=light-grey&style=plastic&logo=Angular"/>
+<img src="https://img.shields.io/badge/Website-#007BFF?style=flat-square&logo=angular&logoColor=white" alt="Angular" />
   </a>
   <a href="https://www.linkedin.com/in/alextimis/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=Linkedin&color=#6C757D&style=plastic&logo=Linkedin"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=Linkedin&color=light-grey&style=plastic&logo=Linkedin"/>
   </a>
   <a href="https://x.com/AITimis" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=Twitter&color=blue&style=plastic&logo=X"/>
