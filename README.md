@@ -8,7 +8,7 @@ Colours:
 
 <p align="center">
   <a href="website link" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=Resume&color=%236F42C1&style=plastic&logo=Angular"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=Website&color=%236F42C1&style=plastic&logo=Angular"/>
   </a>
   <a href="https://www.linkedin.com/in/alextimis/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=Linkedin&color=%23007BFF&style=plastic&logo=Linkedin"/>
