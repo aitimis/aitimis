@@ -1,7 +1,9 @@
 
 <img src="https://imgur.com/a/8eTSf59" width="100%">
 <!-- 
-Colours: %23007BFF
+Colours: 
+%23007BFF - blue
+%236F42C1 - purple
 -->
 
 <p align="center">
@@ -12,13 +14,13 @@ Colours: %23007BFF
     <img src="https://img.shields.io/static/v1?label=|&message=Linkedin&color=%23007BFF&style=plastic&logo=Linkedin"/>
   </a>
   <a href="https://x.com/AITimis" target="_blank">
-    <img src="https://img.shields.io/badge/-Twitter-Twitter?style=plastic&logo=X&labelColor=%236C757D&color=%236F42C1"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=Twitter&color=%236F42C1&style=plastic&logo=X"/>
   </a>
   <a href="angellist" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=Angellist&color=yellow&style=plastic&logo=|"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=Angellist&color=%23007BFF&style=plastic&logo=|"/>
   </a>
   <a href="resume" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=Resume&color=blue&style=plastic&logo=Angular"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=Resume&color=%236F42C1&style=plastic&logo=Angular"/>
   </a>
 </p>
 
