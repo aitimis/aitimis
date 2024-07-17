@@ -2,29 +2,28 @@
 <img src="https://imgur.com/a/8eTSf59" width="100%">
 
 <p align="center">
-  <a href="" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=23555f&style=plastic&logo=react&logo-color=white"/>
+  <a href="website link" target="_blank">
+    <img src="https://img.shields.io/badge/-Website-blue?style=flat&logo=Angular"/>
   </a>
   <a href="https://www.linkedin.com/in/alextimis/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=LINKED-IN&color=cdf998&style=plastic&logo=linkedin&logo-color=white"/>
+    <img src="https://img.shields.io/badge/-Linkedin-yellow?style=flat&logo=LinkedIn"/>
   </a>
   <a href="https://x.com/AITimis" target="_blank">
     <img src="https://img.shields.io/badge/-Twitter-blue?style=flat&logo=X"/>
   </a>
   <a href="angellist" target="_blank">
-      <img src="https://img.shields.io/static/v1?label=|&message=ANGEL-LIST&color=cdf998&style=plastic&logo=angellist&logo-color=white"/>
+      <img src="https://img.shields.io/badge/-Angellist-yellow?style=flat&logo=|"/>
   </a>
   <a href="resume" target="_blank">
-      <img src="https://img.shields.io/static/v1?label=|&message=RESUME&color=23555f&style=plastic&logo=react&logo-color=white"/>
+      <img src="https://img.shields.io/badge/-Resume-blue?style=flat&logo=Angular"/>
   </a>
 </p>
 
-Previously an Amazon Full-Stack Software Engineer, I am motivated by the power of technology as a tool for positive change, with a background in Math, Physics, and Business Management.
+I'm a creative full stack software engineer with a strong passion for building web applications and a deep interest in artificial intelligence. 
 
-See [my website](https://shawncharles.com) for more information!
+<h1 align="center">Projects loading ...</h1>
 
-
-<h1 align="center">Projects</h1>
+<!--
 <table bordercolor="#66b2b2">
   
   <tr>
@@ -105,6 +104,8 @@ See [my website](https://shawncharles.com) for more information!
   </tr>
 </table>
 
+-->
+
 
 <h1 align="center">Technologies</h1>
 
@@ -112,24 +113,14 @@ See [my website](https://shawncharles.com) for more information!
 <p align="center">
     <img src="https://img.shields.io/static/v1?label=|&message=HTML5&color=23555f&style=plastic&logo=html5"/>
     <img src="https://img.shields.io/static/v1?label=|&message=CSS3&color=285f65&style=plastic&logo=css3"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=SASS&color=2b625f&style=plastic&logo=sass"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=BOOTSTRAP&color=316c5e&style=plastic&logo=bootstrap"/>
     <img src="https://img.shields.io/static/v1?label=|&message=JAVASCRIPT&color=3c7f5d&style=plastic&logo=javascript"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=REACT.JS&color=4a935c&style=plastic&logo=react"/>
     <img src="https://img.shields.io/static/v1?label=|&message=TYPESCRIPT&color=4a935c&style=plastic&logo=typescript"/>
     <img src="https://img.shields.io/static/v1?label=|&message=PYTHON&color=52985b&style=plastic&logo=python"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=JAVA&color=cdf998&style=plastic&logo=java"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=SOLIDITY&color=8fbc56&style=plastic&logo=solidity"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=SELENIUM&color=cdf998&style=plastic&logo=selenium"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=AWS&color=98bf53&style=plastic&logo=amazon"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=WORDPRESS&color=cdd148&style=plastic&logo=wordpress"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=ADOBE&color=98bf53&style=plastic&logo=adobe"/>
     <img src="https://img.shields.io/static/v1?label=|&message=MONGO-DB&color=cdd148&style=plastic&logo=mongodb"/>
     <img src="https://img.shields.io/static/v1?label=|&message=EXPRESS&color=bbb111&style=plastic&logo=express"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBPACK&color=bbb111&style=plastic&logo=webpack"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=Angular&color=bbb111&style=plastic&logo=Angular"/>
     <img src="https://img.shields.io/static/v1?label=|&message=LINUX&color=bbb111&style=plastic&logo=linux"/>
     <img src="https://img.shields.io/static/v1?label=|&message=GIT&color=cbb148&style=plastic&logo=git"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=FIREBASE&color=cbb148&style=plastic&logo=firebase"/>
 </p>
 
 
@@ -142,19 +133,19 @@ See [my website](https://shawncharles.com) for more information!
 
 
 <p align="center">
-  <a href="https://shawncharles.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=23555f&style=plastic&logo=react&logo-color=white"/>
+  <a href="website link" target="_blank">
+    <img src="https://img.shields.io/badge/-Website-blue?style=flat&logo=Angular"/>
   </a>
-  <a href="https://shawncharles.com/linkedin" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=LINKED-IN&color=cdf998&style=plastic&logo=linkedin&logo-color=white"/>
+  <a href="https://www.linkedin.com/in/alextimis/" target="_blank">
+    <img src="https://img.shields.io/badge/-Linkedin-yellow?style=flat&logo=LinkedIn"/>
   </a>
-  <a href="https://shawncharles.com/twitter" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=23555f&style=plastic&logo=twitter&logo-color=white"/>
+  <a href="https://x.com/AITimis" target="_blank">
+    <img src="https://img.shields.io/badge/-Twitter-blue?style=flat&logo=X"/>
   </a>
-  <a href="https://shawncharles.com/angellist" target="_blank">
-      <img src="https://img.shields.io/static/v1?label=|&message=ANGEL-LIST&color=cdf998&style=plastic&logo=angellist&logo-color=white"/>
+  <a href="angellist" target="_blank">
+      <img src="https://img.shields.io/badge/-Angellist-yellow?style=flat&logo=|"/>
   </a>
-  <a href="https://shawncharles.com/resume" target="_blank">
-      <img src="https://img.shields.io/static/v1?label=|&message=RESUME&color=23555f&style=plastic&logo=react&logo-color=white"/>
+  <a href="resume" target="_blank">
+      <img src="https://img.shields.io/badge/-Resume-blue?style=flat&logo=Angular"/>
   </a>
 </p>
