@@ -6,13 +6,13 @@
     <img src="https://img.shields.io/static/v1?label=|&message=Angular&color=blue&style=plastic&logo=Angular"/>
   </a>
   <a href="https://www.linkedin.com/in/alextimis/" target="_blank">
-    <img src="https://img.shields.io/badge/-Linkedin-yellow?style=flat&logo=LinkedIn"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=Linkedin&color=yellow&style=plastic&logo=Linkedin"/>
   </a>
   <a href="https://x.com/AITimis" target="_blank">
-    <img src="https://img.shields.io/badge/-Twitter-blue?style=flat&logo=X"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=Twitter&color=blue&style=plastic&logo=X"/>
   </a>
   <a href="angellist" target="_blank">
-      <img src="https://img.shields.io/badge/-Angellist-yellow?style=flat&logo=|"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=Angellist&color=yellow&style=plastic&logo=|"/>
   </a>
   <a href="resume" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=Resume&color=blue&style=plastic&logo=Angular"/>
