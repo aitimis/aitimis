@@ -2,8 +2,8 @@
 <img src="https://imgur.com/a/8eTSf59" width="100%">
 <!-- 
 Colours: %23007BFF
-
 -->
+
 <p align="center">
   <a href="website link" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=Resume&color=%236F42C1&style=plastic&logo=Angular"/>
