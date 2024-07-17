@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="website link" target="_blank">
-    <img src="https://img.shields.io/badge/-Website-blue?style=flat&logo=Angular"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=Angular&color=blue&style=plastic&logo=Angular"/>
   </a>
   <a href="https://www.linkedin.com/in/alextimis/" target="_blank">
     <img src="https://img.shields.io/badge/-Linkedin-yellow?style=flat&logo=LinkedIn"/>
@@ -15,7 +15,7 @@
       <img src="https://img.shields.io/badge/-Angellist-yellow?style=flat&logo=|"/>
   </a>
   <a href="resume" target="_blank">
-      <img src="https://img.shields.io/badge/-Resume-blue?style=flat&logo=Angular"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=Resume&color=blue&style=plastic&logo=Angular"/>
   </a>
 </p>
 
@@ -118,7 +118,7 @@ I'm a creative full stack software engineer with a strong passion for building w
     <img src="https://img.shields.io/static/v1?label=|&message=PYTHON&color=52985b&style=plastic&logo=python"/>
     <img src="https://img.shields.io/static/v1?label=|&message=MONGO-DB&color=cdd148&style=plastic&logo=mongodb"/>
     <img src="https://img.shields.io/static/v1?label=|&message=EXPRESS&color=bbb111&style=plastic&logo=express"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=Angular&color=bbb111&style=plastic&logo=Angular"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=Angular&color=blue&style=plastic&logo=Angular"/>
     <img src="https://img.shields.io/static/v1?label=|&message=LINUX&color=bbb111&style=plastic&logo=linux"/>
     <img src="https://img.shields.io/static/v1?label=|&message=GIT&color=cbb148&style=plastic&logo=git"/>
 </p>
