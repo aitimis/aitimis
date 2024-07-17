@@ -1,5 +1,5 @@
 
-<img src="https://imgur.com/DtkMnST" width="100%">
+<img src="https://i.imgur.com/DtkMnST.png" width="100%">
 <!-- 
 Colours: 
 %23007BFF - blue
