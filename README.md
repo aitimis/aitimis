@@ -122,15 +122,15 @@ Colours:
 
 <p align="center">
     <img src="https://img.shields.io/static/v1?label=|&message=HTML5&color=%23007BFF&style=plastic&logo=html5"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=CSS3&color=285f65&style=plastic&logo=css3"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=CSS3&color=%236F42C1&style=plastic&logo=css3"/>
     <img src="https://img.shields.io/static/v1?label=|&message=JAVASCRIPT&color=%23007BFF&style=plastic&logo=javascript"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=TYPESCRIPT&color=4a935c&style=plastic&logo=typescript"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=TYPESCRIPT&color=%236F42C1&style=plastic&logo=typescript"/>
     <img src="https://img.shields.io/static/v1?label=|&message=PYTHON&color=%23007BFF&style=plastic&logo=python"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=MONGO-DB&color=cdd148&style=plastic&logo=mongodb"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=MONGO-DB&color=%236F42C1&style=plastic&logo=mongodb"/>
     <img src="https://img.shields.io/static/v1?label=|&message=EXPRESS&color=%23007BFF&style=plastic&logo=express"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=Angular&color=blue&style=plastic&logo=Angular"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=Angular&color=%236F42C1&style=plastic&logo=Angular"/>
     <img src="https://img.shields.io/static/v1?label=|&message=LINUX&color=%23007BFF&style=plastic&logo=linux"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=GIT&color=cbb148&style=plastic&logo=git"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=GIT&color=%236F42C1&style=plastic&logo=git"/>
 </p>
 
 
