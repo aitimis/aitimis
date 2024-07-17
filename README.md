@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/-Linkedin-Linkedin?style=plastic&logo=LinkedIn&logoColor=white&labelColor=%236C757D&color=%23007BFF"/>
   </a>
   <a href="https://x.com/AITimis" target="_blank">
-    <img src="https://img.shields.io/badge/-Linkedin-Twitter?style=plastic&logo=X&logoColor=white&labelColor=%23F8F9FA&color=%2320C997"/>
+    <img src="https://img.shields.io/badge/-Twitter-Twitter?style=plastic&logo=X&labelColor=%236C757D&color=%236F42C1"/>
   </a>
   <a href="angellist" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=Angellist&color=yellow&style=plastic&logo=|"/>
