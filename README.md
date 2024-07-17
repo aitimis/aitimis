@@ -6,7 +6,7 @@
     <img src="https://img.shields.io/static/v1?label=|&message=Resume&color=%236F42C1&style=plastic&logo=Angular"/>
   </a>
   <a href="https://www.linkedin.com/in/alextimis/" target="_blank">
-    <img src="https://img.shields.io/badge/-Linkedin-Linkedin?style=plastic&logo=LinkedIn&logoColor=white&labelColor=%236C757D&color=%23007BFF"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=Resume&color=%23007BFF&style=plastic&logo=Angular"/>
   </a>
   <a href="https://x.com/AITimis" target="_blank">
     <img src="https://img.shields.io/badge/-Twitter-Twitter?style=plastic&logo=X&labelColor=%236C757D&color=%236F42C1"/>
