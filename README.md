@@ -7,21 +7,21 @@ Colours:
 -->
 
 <p align="center">
-  <a href="website link" target="_blank">
+<!--   <a href="website link" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=Website&color=%236F42C1&style=plastic&logo=Angular"/>
-  </a>
+  </a> -->
   <a href="https://www.linkedin.com/in/alextimis/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=Linkedin&color=%23007BFF&style=plastic&logo=Linkedin"/>
   </a>
   <a href="https://x.com/AITimis" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=Twitter&color=%236F42C1&style=plastic&logo=X"/>
   </a>
-  <a href="angellist" target="_blank">
+<!--   <a href="angellist" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=Angellist&color=%23007BFF&style=plastic&logo=|"/>
-  </a>
-  <a href="resume" target="_blank">
+  </a> -->
+<!--   <a href="resume" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=Resume&color=%236F42C1&style=plastic&logo=Angular"/>
-  </a>
+  </a> -->
 </p>
 
 I'm a creative full stack software engineer with a strong passion for building web applications and a deep interest in artificial intelligence. 
@@ -143,19 +143,19 @@ Colours:
 
 
 <p align="center">
-  <a href="website link" target="_blank">
+<!--   <a href="website link" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=Website&color=%236F42C1&style=plastic&logo=Angular"/>
-  </a>
+  </a> -->
   <a href="https://www.linkedin.com/in/alextimis/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=Linkedin&color=%23007BFF&style=plastic&logo=Linkedin"/>
   </a>
   <a href="https://x.com/AITimis" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=Twitter&color=%236F42C1&style=plastic&logo=X"/>
   </a>
-  <a href="angellist" target="_blank">
+<!--   <a href="angellist" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=Angellist&color=%23007BFF&style=plastic&logo=|"/>
-  </a>
-  <a href="resume" target="_blank">
+  </a> -->
+<!--   <a href="resume" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=Resume&color=%236F42C1&style=plastic&logo=Angular"/>
-  </a>
+  </a> -->
 </p>
