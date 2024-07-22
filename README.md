@@ -26,7 +26,7 @@ Colours:
 
 I'm a creative full stack software engineer with a strong passion for building web applications and a deep interest in artificial intelligence. 
 
-<h1 align="center">Projects loading ...</h1>
+<h1 align="center">Projects:</h1>
 
 
 <table bordercolor="#66b2b2">
