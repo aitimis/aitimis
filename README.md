@@ -73,7 +73,7 @@ I'm a creative full stack software engineer with a strong passion for building w
   <tr>
       <!-- HAIR SALON -->
     <td width="50%" valign="top">
-      <h3 align="center">Hair Salon - Landing page</h3>
+      <h3 align="center">Hair Salon website</h3>
       <br />
         <a target="_blank" href="">
           <img src="images/hairsalonGIF.gif" width="100%" alt="hair salon"/>
@@ -87,7 +87,7 @@ I'm a creative full stack software engineer with a strong passion for building w
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>HTML5, CSS3</strong> - Home page for hair salons.</p>
+        <p><strong>HTML5, CSS3m Javascript</strong> - Hair salon website with a user-friendly interface that allows your customers to easaly book appointments!</p>
     </td> 
       <!-- Star Wars Quotes -->
     <td width="50%" valign="top">
