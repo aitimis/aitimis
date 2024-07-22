@@ -72,7 +72,7 @@ I'm a creative full stack software engineer with a strong passion for building w
   
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">Hair Salon - Landing page/h3>
+      <h3 align="center">Hair Salon - Landing page</h3>
       <br />
         <a target="_blank" href="">
           <img src="images/AnimationHairSalon.gif" width="100%" alt="hair salon"/>
