@@ -80,7 +80,7 @@ I'm a creative full stack software engineer with a strong passion for building w
         </a>
       <br />
         <p align="center">
-  <a href="https://github.com/aitimis" target="_blank">
+  <a href="https://github.com/aitimis/hair-salon-landing-page" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
   <a href="aitimis.netlify" target="_blank">
