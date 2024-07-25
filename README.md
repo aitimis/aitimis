@@ -83,9 +83,9 @@ I'm a creative full stack software engineer with a strong passion for building w
   <a href="https://github.com/aitimis/hair-salon-landing-page" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
-  <a href="aitimis.netlify" target="_blank">
+<!--   <a href="aitimis.netlify" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
-  </a>
+  </a> -->
       </p>
         <p><strong>HTML5, CSS3, Javascript</strong> - Hair salon website with a user-friendly interface that allows your customers to easaly book appointments!</p>
     </td> 
@@ -98,12 +98,12 @@ I'm a creative full stack software engineer with a strong passion for building w
         </a>
         <br />
         <p align="center">  
-  <a href="https://github.com/aitimis" target="_blank">
+  <a href="https://github.com/aitimis/star-wars-quotes" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
-  <a href="" target="_blank">
+<!--   <a href="" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
-  </a>
+  </a> -->
       </p>
         <p><strong>HTML5, CSS3, Javascript, NodeJS & MongoDB</strong> - A simple web app that showcases frontend-backend communication, you can add Yoda quotes and watch Darth Vader invade!</p>
     </td>
